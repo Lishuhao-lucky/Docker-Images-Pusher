@@ -1,3 +1,4 @@
 #mysql:8.0.29
 #onlyoffice/communityserver:12.0.1.1748
 #onlyoffice/elasticsearch:7.16.3
+onlyoffice/controlpanel:3.1.1.467
