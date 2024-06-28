@@ -1,1 +1,1 @@
-lissy93/dashy
+emby/embyserver:latest
