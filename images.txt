@@ -1,3 +1,2 @@
-mysql:8.0.29
-onlyoffice/elasticsearch:7.16.3
-onlyoffice/controlpanel:3.1.1.467
+postgres:12
+rabbitmq
