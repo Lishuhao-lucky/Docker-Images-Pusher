@@ -1,2 +1,1 @@
-mysql
-wordpress
+hopgoldy/cube-diary:1.0.4
