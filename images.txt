@@ -1,1 +1,1 @@
-hopgoldy/cube-diary:1.0.4
+phitux/dailytxt:latest
