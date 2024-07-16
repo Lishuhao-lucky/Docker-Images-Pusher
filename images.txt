@@ -1,1 +1,3 @@
-photoprism/photoprism:latest
+ghcr.io/imagegenius/immich:latest
+redis
+postgres:14
