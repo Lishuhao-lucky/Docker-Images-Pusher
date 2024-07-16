@@ -1,1 +1,1 @@
-wekeey/leanote
+photoprism/photoprism:latest
