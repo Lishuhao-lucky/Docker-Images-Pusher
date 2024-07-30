@@ -1,1 +1,1 @@
-antonyleons/ward
+vaultwarden/server:latest
