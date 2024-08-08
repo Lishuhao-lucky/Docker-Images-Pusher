@@ -1,1 +1,1 @@
-gotify/server:latest
+privoce/vocechat-server:latest
