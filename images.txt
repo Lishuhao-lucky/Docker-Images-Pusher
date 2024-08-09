@@ -1,1 +1,2 @@
-privoce/vocechat-server:latest
+redis:6
+signalapp/signal-server:latest
