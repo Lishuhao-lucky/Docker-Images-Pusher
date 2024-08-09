@@ -1,1 +1,1 @@
-signalapp/signal-server:latest
+keybase/keybase:latest
