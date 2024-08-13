@@ -1,1 +1,1 @@
-mauricenino/dashdot:latest
+kingwrcy/moments:latest
