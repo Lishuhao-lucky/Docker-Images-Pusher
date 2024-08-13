@@ -1,1 +1,1 @@
-analogic/poste.io
+mauricenino/dashdot:latest
