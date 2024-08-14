@@ -1,1 +1,2 @@
-postgres:14-alpine
+kingwrcy/discussion:latest
+postgres:alpine
