@@ -1,2 +1,1 @@
-kingwrcy/discussion:latest
-postgres:alpine
+elestio/memos:v0.15.0
