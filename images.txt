@@ -1,1 +1,1 @@
-kingwrcy/m-moments:latest
+postgres:14-alpine
