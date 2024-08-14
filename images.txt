@@ -1,1 +1,1 @@
-elestio/memos:v0.21.0
+kingwrcy/moments:0.2.5
