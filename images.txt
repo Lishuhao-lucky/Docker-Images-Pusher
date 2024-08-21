@@ -1,2 +1,2 @@
-redis:7-alpine
-ranjie/rmoments:latest
+rocketchat/rocket.chat:latest
+mongo:4.0
