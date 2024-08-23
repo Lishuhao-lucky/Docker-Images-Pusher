@@ -1,1 +1,1 @@
-mongo:latest
+dko0/lsky-pro
