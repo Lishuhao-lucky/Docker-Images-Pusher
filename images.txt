@@ -1,1 +1,2 @@
-dko0/lsky-pro
+halcyonazure/lsky-pro-docker:latest
+mysql:5.7.22
