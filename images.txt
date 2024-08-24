@@ -1,2 +1,1 @@
-halcyonazure/lsky-pro-docker:latest
-mysql:5.7.22
+neosmemo/memos:test
