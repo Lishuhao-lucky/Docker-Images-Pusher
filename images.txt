@@ -1,1 +1,1 @@
-neosmemo/memos:test
+microblogpub/microblogpub:latest
