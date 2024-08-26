@@ -1,1 +1,2 @@
-
+postgres:13.1
+etechonomy/joplin-server:latest
