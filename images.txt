@@ -1,1 +1,1 @@
-microblogpub/microblogpub:latest
+
