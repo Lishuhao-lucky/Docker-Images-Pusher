@@ -1,1 +1,1 @@
-elestio/memos:v0.22.4
+elestio/memos:test
