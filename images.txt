@@ -1,1 +1,1 @@
-elestio/memos:v0.22.3
+ghcr.io/usememos/memos:test
