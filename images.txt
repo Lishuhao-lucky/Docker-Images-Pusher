@@ -1,1 +1,1 @@
-elestio/memos:vo.22.3
+elestio/memos:v0.22.3
