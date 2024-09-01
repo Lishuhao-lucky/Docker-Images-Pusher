@@ -1,1 +1,1 @@
-elestio/memos:test
+elestio/memos:vo.22.3
