@@ -1,1 +1,1 @@
-ghcr.io/usememos/memos:0.22.5
+ghcr.io/usememos/memos:test
