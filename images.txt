@@ -1,1 +1,1 @@
-ghcr.io/usememos/memos:test
+kingwrcy/moments:0.2.6
