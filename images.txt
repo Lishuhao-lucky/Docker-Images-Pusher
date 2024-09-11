@@ -1,1 +1,1 @@
-kingwrcy/moments:0.2.6
+ghcr.io/usememos/memos:0.14.4
