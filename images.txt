@@ -1,1 +1,1 @@
-tomsquest/docker-radicale
+bellamy/wallos:latest
