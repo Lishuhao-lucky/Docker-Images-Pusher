@@ -1,1 +1,1 @@
-bellamy/wallos:latest
+misskey/misskey:latest
