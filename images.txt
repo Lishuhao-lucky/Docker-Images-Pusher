@@ -1,1 +1,1 @@
-shaarli/shaarli:latest
+ghcr.io/usememos/memos:test
