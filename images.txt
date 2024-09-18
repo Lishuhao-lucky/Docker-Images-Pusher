@@ -1,1 +1,1 @@
-misskey/misskey:latest
+shaarli/shaarli:latest
