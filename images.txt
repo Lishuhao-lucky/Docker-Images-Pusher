@@ -1,2 +1,1 @@
-chocobozzz/peertube-webserver:latest
-chocobozzz/peertube:production-bookworm
+ghcr.io/usememos/memos:test
