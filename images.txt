@@ -1,1 +1,1 @@
-
+ghcr.io/usememos/memos:0.22.6-pre
