@@ -1,1 +1,1 @@
-yourselfhosted/slash:latest
+ghcr.io/ertuil/memos-reminder:latest
