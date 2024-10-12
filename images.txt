@@ -1,1 +1,1 @@
-ghcr.io/usememos/memos:test
+yourselfhosted/slash:latest
