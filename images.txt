@@ -1,1 +1,1 @@
-kingwrcy/moments:dev
+ghcr.io/usememos/memos:test
