@@ -1,2 +1,1 @@
-ranjie/rmoments
 ghcr.io/usememos/memos:test
