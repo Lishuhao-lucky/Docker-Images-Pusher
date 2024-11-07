@@ -1,1 +1,1 @@
-sayhello-fastapi
+ghcr.io/usememos/memos:test
