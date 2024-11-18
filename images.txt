@@ -1,1 +1,1 @@
-nu11pointer/lazzymusic:latest
+deluan/navidrome:latest
