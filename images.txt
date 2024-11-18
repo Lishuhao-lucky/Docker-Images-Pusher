@@ -1,1 +1,1 @@
-imaegoo/twikoo
+ghcr.io/usememos/memos:test
