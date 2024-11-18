@@ -1,1 +1,1 @@
-ghcr.io/usememos/memos:test
+nu11pointer/lazzymusic:latest
