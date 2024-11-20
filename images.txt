@@ -1,1 +1,1 @@
-deluan/navidrome:latest
+joyqi/typecho:nightly-php8.2-apache
