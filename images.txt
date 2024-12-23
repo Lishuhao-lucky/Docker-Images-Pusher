@@ -1,1 +1,1 @@
-chocobozzz/peertube:production-buster
+caddy:latest
