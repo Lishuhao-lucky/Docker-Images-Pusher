@@ -1,1 +1,2 @@
-caddy:latest
+joyqi/typecho:nightly-php7.4-apache
+
