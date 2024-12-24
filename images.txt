@@ -1,2 +1,2 @@
-joyqi/typecho:nightly-php7.4-apache
+joyqi/typecho:1.2.1-php7.4-apache Copy
 
