@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+ghcr.io/louislam/uptime-kuma:2.0.0-beta-slim.3
