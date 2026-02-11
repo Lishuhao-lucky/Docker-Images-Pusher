@@ -1,1 +1,1 @@
-gotify/server:2.5.0
+gotify/server:2.6.1
