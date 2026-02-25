@@ -1,1 +1,1 @@
-docker pull seafileltd/seafile-pro-mc:13.0-latest
+seafileltd/seafile-pro-mc:13.0.18
