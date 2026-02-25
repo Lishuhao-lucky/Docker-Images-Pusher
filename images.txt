@@ -1,1 +1,8 @@
-seafileltd/seafile-pro-mc:13.0.18
+mariadb:10.11
+redis
+elasticsearch:8.15.0
+lucaslorentz/caddy-docker-proxy:2.9-alpine
+seafileltd/sdoc-server:2.0-latest
+seafileltd/notification-server:13.0-latest
+seafileltd/seasearch:1.0-latest
+seafileltd/seafile-md-server:13.0-latest
