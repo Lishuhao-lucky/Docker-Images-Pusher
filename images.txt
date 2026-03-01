@@ -1,1 +1,1 @@
-nginx:1.21-alpine
+justlikemaki/openclaw-docker-cn-im:latest
