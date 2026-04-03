@@ -1,1 +1,1 @@
-miyorene/weblogohw:latest
+justlikemaki/openclaw-docker-cn-im:latest
